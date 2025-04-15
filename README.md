@@ -14,6 +14,11 @@ A fully-featured Java Sudoku game with an interactive GUI built using Swing. Cha
 - 🚫 Input validation ensures only digits 1-9 are allowed
 - 🔍 Solution checking with visual error highlighting
 
+  
+## Snapshots
+
+![image](https://github.com/user-attachments/assets/f155e571-bbdc-4f2c-b85e-f9f8e0b4dd1f)
+
 ## 🛠️ Technologies Used
 
 - Java (Object-Oriented Programming structure)
